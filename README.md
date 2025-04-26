@@ -16,4 +16,4 @@
 [ccp-inventory](https://perspicapps-ccp.github.io/ccp-inventory/index.html)
 
 ## Cobertura Servicio Logistic (Back)
-[ccp-inventory](https://perspicapps-ccp.github.io/ccp-logistic/index.html)
+[ccp-logistic](https://perspicapps-ccp.github.io/ccp-logistic/index.html)
