@@ -3,6 +3,9 @@
 ## Cobertura Aplicacion Staff (Front)
 [ccp-app-staff](https://perspicapps-ccp.github.io/ccp-app-staff/index.html)
 
+## Cobertura Aplicacion Vendedores (Front)
+[ccp-app-vendedores](https://perspicapps-ccp.github.io/ccp-app-vendedores/index.html)
+
 ## Cobertura Servicio Users (Back)
 [ccp-users](https://perspicapps-ccp.github.io/ccp-users/index.html)
 
@@ -17,3 +20,5 @@
 
 ## Cobertura Servicio Logistic (Back)
 [ccp-logistic](https://perspicapps-ccp.github.io/ccp-logistic/index.html)
+
+
