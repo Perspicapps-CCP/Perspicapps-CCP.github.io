@@ -6,6 +6,9 @@
 ## Cobertura Aplicacion Vendedores (Front)
 [ccp-app-vendedores](https://perspicapps-ccp.github.io/ccp-app-vendedores/index.html)
 
+## Cobertura Aplicacion Tenderos (Front)
+[ccp-app-vendedores](https://perspicapps-ccp.github.io/ccp-app-tenderos/index.html)
+
 ## Cobertura Servicio Users (Back)
 [ccp-users](https://perspicapps-ccp.github.io/ccp-users/index.html)
 
